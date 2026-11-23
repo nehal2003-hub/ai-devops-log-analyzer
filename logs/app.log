@@ -1,0 +1,9 @@
+2026-11-18 09:00:01 INFO Application started successfully
+2026-11-18 09:01:12 INFO Database connection established
+2026-11-18 09:02:15 WARNING High memory usage detected
+2026-11-18 09:03:20 ERROR Database connection failed
+2026-11-18 09:04:10 INFO Retrying database connection
+2026-11-18 09:05:30 ERROR Connection timeout
+2026-11-18 09:06:45 CRITICAL Application service crashed
+2026-11-18 09:07:10 INFO Restarting application
+2026-11-18 09:08:20 INFO Application restarted successfully
